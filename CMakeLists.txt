@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.31)
+project(runtrackC++)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(job02 JOUR01/JOB02/job02.cpp)
+add_executable(job03 JOUR01/JOB03/job03.cpp)
+add_executable(job04 JOUR01/JOB04/job04.cpp)
+add_executable(job05 JOUR01/JOB05/job05.cpp)
+add_executable(job06 JOUR01/JOB06/job06.cpp)
+add_executable(job07 JOUR01/JOB07/job07.cpp)
+add_executable(job08 JOUR01/JOB08/job08.cpp)
+add_executable(job09 JOUR01/JOB09/job09.cpp)
+add_executable(job10 JOUR01/JOB10/job10.cpp)
+add_executable(job11 JOUR01/JOB11/job11.cpp)
+add_executable(job12 JOUR01/JOB12/job12.cpp)
+add_executable(job13 JOUR01/JOB13/job13.cpp)
+add_executable(job14 JOUR01/JOB14/job14.cpp)
